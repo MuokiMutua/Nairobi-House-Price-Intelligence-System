@@ -1,5 +1,8 @@
 # House Price Intelligence System
 
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/99acef47-e199-46df-847e-acbbb508fcfc" />
+
+
 ## Introduction
 This project analyzes a real-world Nairobi housing dataset to determine property values based on features like **location**, **size**, and **amenities**. Using insights from this analysis, we've developed an algorithm that predicts the **fair market price** for a property with high precision. This tool is designed to assist **home buyers, sellers, and real estate agents** in making data-driven valuation decisions in a variable market.
 
